@@ -1,0 +1,25 @@
+ul{
+	list-style-type: none;
+	marging:2;
+	padding:2;
+	overflow:hidden;
+background-color:red;} 
+
+
+
+li {
+float:left;} 
+
+li a { 
+		display: inline-block; 
+		color:green;
+		text-align:center;
+		padding:10px 30px;
+text-decoration:italic;}
+
+
+
+
+li a:hover{
+		text-align:12pc;
+background-color:#3CB371;} 

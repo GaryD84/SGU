@@ -1,0 +1,115 @@
+
+
+img{
+max-width:100%;
+height: auto;
+}
+
+#container{
+width: 1000px;
+margin: 2px 2px;
+}
+
+#left-column{
+width: 1000px;
+float:left;
+background: green;
+}
+
+#right-column{
+width:1000px;
+float:left;
+background: orange;
+}
+
+
+contact{
+background-color: yellow;
+}
+
+
+
+
+body { 
+background-color: grey;
+width: 1000px; 
+font-family: "verdana";
+
+color: black;
+margin: auto;
+}
+
+ 
+
+
+h1 { 
+	background-color: blue;
+	padding: 14px;
+	text-align: center;
+text-shadow: 3px 3px 6px white;}
+
+ 
+ 
+ 
+ p{
+ text-align:left;
+}
+
+
+
+ #page{    
+	max-width: 900px;    
+	min-width: 900px;
+	margin: 10px auto 10px auto;    
+	padding: 10px;    
+	background-color: yellow;
+text-align: center;
+}
+
+
+
+
+h2 {
+	background-color:green;
+	padding: 14px;
+text-align: center;
+}
+
+
+
+
+h3 {
+	background-color:yellow;
+	padding: 10px;
+text-align: center;}
+
+
+
+h4{
+text-align:left;}
+
+
+
+
+
+footer{
+	text-align:left;
+}
+
+
+
+ @media screen and (max-width:1000px){
+#container{
+width: 100%;
+}
+
+#left-column{
+width:70%;
+}
+img{
+width:100%;
+}
+}
+
+
+
